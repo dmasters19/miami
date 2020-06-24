@@ -2,7 +2,7 @@
 
 ## Parts
 
-![Alt text](pictures/glossary.HEIC?raw=true "Parts")
+![Alt text](/Users/masters/workspace/miami/pictures/glossary.png)
 
 
 
