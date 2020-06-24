@@ -2,7 +2,7 @@
 
 ## Parts
 
-![Alt text](pictures/glossary.png)
+<img src="pictures/glossary.png" width="400">
 
 
 
