@@ -2,7 +2,7 @@
 
 ## Parts
 
-![Alt text](/Users/masters/workspace/miami/pictures/glossary.png)
+![Alt text](pictures/glossary.png)
 
 
 
