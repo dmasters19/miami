@@ -41,8 +41,9 @@ I also plugged the other end of the gray cord into the ethernet port on the back
 
 ## Usage
 
-On your iphone, go to the app storer and download the "My Russound" app.
+On your iphone, go to the app store and download the "My Russound" app.
 
+<br/> 
 <img src="pictures/russound.png" width="800">
 <br/> 
 <br/> 
