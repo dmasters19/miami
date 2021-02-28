@@ -39,5 +39,20 @@ I also plugged the other end of the gray cord into the ethernet port on the back
 <br/> 
 <br/> 
 
+## Usage
+
+On your iphone, go to the app storer and download the "My Russound" app.
+
+<img src="pictures/russound.png" width="800">
+<br/> 
+<br/> 
+
+Make sure you are connected to wifi network. When you open the app, it should automatically find the speaker system and give you a list of available streaming apps to play music from such as Spotify.  From there, you can control the music from your phone, and which rooms' speakers are turned on.
+
+
+
+
+
+
 
 
